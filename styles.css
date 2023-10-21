@@ -1,0 +1,15 @@
+.textColor{
+    color: crimson;
+    font-size: 40px;
+    -webkit-text-stroke: 1px white
+}
+
+.h1Titulo{
+    color: rgb(101, 161, 115);
+    font-size: 60px;
+    -webkit-text-stroke: 1px rgb(2, 51, 2)
+}
+
+.ocultar{
+    display: none;
+}
