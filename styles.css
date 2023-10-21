@@ -1,7 +1,7 @@
 .textColor{
-    color: crimson;
+    color: rgb(101, 161, 115);
     font-size: 40px;
-    -webkit-text-stroke: 1px white
+    -webkit-text-stroke: 1px rgb(2, 51, 2)
 }
 
 .h1Titulo{
